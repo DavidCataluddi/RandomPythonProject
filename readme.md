@@ -21,7 +21,7 @@ Ensure you have Python 3.x installed on your system.
 
 1. **Clone or download this repository:**
    ```bash
-   git clone https://github.com/your-username/quotes-scraper.git
+   git clone https://github.com/DavidCataluddi/scrapping.git
    cd quotes-scraper
    ```
 
@@ -37,7 +37,7 @@ Ensure you have Python 3.x installed on your system.
 Run the script directly from your terminal:
 
 ```bash
-python main.py
+python scrapping.py
 ```
 
 ---

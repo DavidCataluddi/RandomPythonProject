@@ -47,7 +47,7 @@ python main.py
 When executed, the console output will look similar to this:
 
 ```text
-Connexion réussie !
+200
 
 Citation : “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
 Auteur : Albert Einstein
@@ -60,9 +60,3 @@ Tags : abilities, choices
 ```
 
 ---
-
-## 🎯 Future Enhancements
-
-- [ ] Add pagination support to scrape all pages.
-- [ ] Export scraped data to `.csv` or `.json` files.
-- [ ] Implement command-line arguments to filter by author or tag.

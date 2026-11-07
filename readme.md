@@ -21,7 +21,7 @@ Ensure you have Python 3.x installed on your system.
 
 1. **Clone or download this repository:**
    ```bash
-   git clone https://github.com/DavidCataluddi/scrapping.git
+   git clone https://github.com/DavidCataluddi/RandomPythonProject.git
    cd quotes-scraper
    ```
 
